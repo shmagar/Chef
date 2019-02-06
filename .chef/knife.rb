@@ -7,3 +7,4 @@ node_name                "shmagar"
 client_key               "#{current_dir}/shmagar.pem"
 chef_server_url          "https://api.chef.io/organizations/shra"
 cookbook_path            ["#{current_dir}/../cookbooks"]
+
